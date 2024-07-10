@@ -1,3 +1,6 @@
+# Update!!
+> I hope to soon update this code and add more functionality!  
+
 # CapybaraAPI
 > An API coded in Python with Flask that gives functions related to getting images of capybaras!
 
